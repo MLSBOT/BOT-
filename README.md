@@ -14,7 +14,7 @@
 
 # Bot de WhatsApp minimalista multifunções
 
-## Tecnologias envolvidas
+## Tecnologias Agregadas 
 
 - [Axios](https://axios-http.com/ptbr/docs/intro)
 - [Baileys](https://github.com/WhiskeySockets/Baileys)
@@ -26,70 +26,65 @@
 
 ## ⚠ Atenção
 
-Nós não prestamos suporte gratuíto caso você tenha adquirido esta base com terceiros e tenha pago por isso. 
-Solicite que **a pessoa que te vendeu, forneça suporte**.
-Nós não temos vínculo nenhum com terceiros e não nos responsabilizamos por isso, nem prestamos suporte nessas condições.
 
-## Instalação no Termux <a id="termux-setup"></a>
+## Instalación en termux! <a id="termux-setup"></a>
 
-1 - Abra o Termux e execute os comandos abaixo.<br/>
-_Não tem o Termux? [Clique aqui e baixe a última versão](https://www.mediafire.com/file/082otphidepx7aq/Termux_0.119.1_aldebaran_dev.apk)._
+1 - Ara termux y ejecute, ¿no tiene termux? [Aca esta!](https://www.mediafire.com/file/082otphidepx7aq/Termux_0.119.1_aldebaran_dev.apk)._
 
-2 - Digite:
+2 - Ingrese:
 
 ```sh
 termux-setup-storage
 ```
 
-E aceite as permissões que pedir.
+Acepte los permisos!.
 
-3 - Cole o seguinte código:
+3 - Ingrese el siguiente código! :
 
 ```sh
 pkg upgrade -y && pkg update -y && pkg install git -y && pkg install nodejs-lts -y && pkg install ffmpeg -y && npm install -g yarn
 ```
 
-4 - Quando finalizar tudo, digite o código abaixo:
+4 - Ahora, ingrese lo siguiente:
 
 ```sh
 cd /sdcard && git clone https://github.com/guiireal/lite-bot.git && cd ./lite-bot
 ```
 
-5 - Configure o arquivo `config.js`. O bot fica dentro da pasta `/sdcard/lite-bot`.
-_Use o [MT Manager](https://www.mediafire.com/file/y09xgucgygmt1ny/MT_Manager_2.16.7_Dev_Gui.apk/file) ou o [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver&hl=pt_BR) para fazer isso (localizar a pasta)._
-
+5 - Configure el archivo `config.js`. en `/sdcard/lite-bot`.
+_Use [MT Manager](https://www.mediafire.com/file/y09xgucgygmt1ny/MT_Manager_2.16.7_Dev_Gui.apk/file) o [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver&hl=pt_BR) .
 ```js
 // Prefixo dos comandos
-exports.PREFIX = "/";
+exports.PREFIX = ".";
 
 // Emoji do bot (mude se preferir).
-exports.BOT_EMOJI = "🤖";
+exports.BOT_EMOJI = "💙";
 
 // Nome do bot (mude se preferir).
-exports.BOT_NAME = "Takeshi Bot";
+exports.BOT_NAME = "MLS BOT";
 
 // Número do bot. Coloque o número do bot (apenas números).
-exports.BOT_NUMBER = "5511920202020";
+exports.BOT_NUMBER = "571234567899";
 
 // Número do dono do bot. Coloque o número do dono do bot (apenas números).
-exports.OWNER_NUMBER = "5511999999999";
+exports.OWNER_NUMBER = "573999999999";
 ```
-6 - Salve o que você acabou de configurar.
+6 - Guarde.
 
-7 - Vá no termux e digite `/sdcard/lite-bot`.
+7 - Ahora en termux `/sdcard/lite-bot`.
 
-8 - Rode o comando `yarn start` ou `npm start` e informe seu número de telefone.
+8 - inicie usando `yarn start` o `npm start` e ingrese su número de telefono
 
-9 - Coloque o código de pareamento em "dispositivos conectados" no WhatsApp, conforme explicado [nessa parte do vídeo](https://youtu.be/lBhpGuq5ETQ?t=76).
+9 - Coloque el codigo en "dispositivos conectados" en WhatsApp.
 
-10 - Aguarde 10 segundos, depois digite `CTRL + C` 2x para parar o bot.
+10 - Aguarde 10 segundos, depues digite `CTRL + C` 2x para parar el bot.
 
-11 - Inicie o bot novamente, dentro da pasta `lite-bot`:
+11 - Inicie o bot nuevamente, dentro da pasta `lite-bot`:
 ```sh
 yarn start
 ```
 
-ou
+o
 
 ```sh
 npm start
