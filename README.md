@@ -17,7 +17,7 @@
 
 <br />
 
-# Bot de WhatsApp minimalista multifunciones
+# Bot de WhatsApp
 
 ## Tecnologias Agregadas 
 
