@@ -51,24 +51,8 @@ pkg upgrade -y && pkg update -y && pkg install git -y && pkg install nodejs-lts 
 cd /sdcard && git clone https://github.com/MLSBOT/BOT-.git && cd ./mls
 ```
 
-5 - Configure el archivo `config.js`. en `/sdcard/mls`.
-_Use [MT Manager](https://www.mediafire.com/file/y09xgucgygmt1ny/MT_Manager_2.16.7_Dev_Gui.apk/file) o [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver&hl=pt_BR) .
-```js
-// Prefixo dos comandos
-exports.PREFIX = ".";
+5 - Configure el archivo `config.js`. en `/sdcard/mls` use [MT Manager](https://www.mediafire.com/file/y09xgucgygmt1ny/MT_Manager_2.16.7_Dev_Gui.apk/file) o [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver&hl=pt_BR).
 
-// Emoji do bot (mude se preferir).
-exports.BOT_EMOJI = "💙";
-
-// Nome do bot (mude se preferir).
-exports.BOT_NAME = "MLS BOT";
-
-// Número do bot. Coloque o número do bot (apenas números).
-exports.BOT_NUMBER = "571234567899";
-
-// Número do dono do bot. Coloque o número do dono do bot (apenas números).
-exports.OWNER_NUMBER = "573999999999";
-```
 6 - Guarde.
 
 7 - Ahora en termux `/sdcard/mls`.
