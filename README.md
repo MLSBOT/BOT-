@@ -6,13 +6,13 @@
 
 <div align="center">
     <a href="https://github.com/guiireal/lite-bot">
-        <img alt="Version" src="https://img.shields.io/badge/Vers%C3%A3o-1.0.1-blue">
+        <img alt="Version" src="https://img.shields.io/badge/Versión-1.0.0-red">
     </a>
 </div>
 
 <br />
 
-# Bot de WhatsApp minimalista multifunções
+# Bot de WhatsApp minimalista multifunciones
 
 ## Tecnologias Agregadas 
 
@@ -24,7 +24,7 @@
 - [Spider X API](https://api.spiderx.com.br)
 - [Yarn 1.22.22](https://yarnpkg.com)
 
-## ⚠ Atenção
+## ⚠ Atención 
 
 
 ## Instalación en termux! <a id="termux-setup"></a>
