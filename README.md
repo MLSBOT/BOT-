@@ -29,7 +29,7 @@
 
 ## Instalación en termux! <a id="termux-setup"></a>
 
-1 - Abra termux y ejecute, ¿no tiene termux? [Aca esta!](https://www.mediafire.com/file/082otphidepx7aq/Termux_0.119.1_aldebaran_dev.apk)._
+1 - Abra termux y ejecute, ¿no tiene termux? [Aca esta!](https://www.mediafire.com/file/082otphidepx7aq/Termux_0.119.1_aldebaran_dev.apk)
 
 2 - Ingrese:
 
