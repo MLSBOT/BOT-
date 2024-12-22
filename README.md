@@ -10,8 +10,8 @@
 <br />
 
 <div align="center">
-    <a href="https://github.com/guiireal/lite-bot">
-        <img alt="Version" src="https://img.shields.io/badge/Versión-1.0.0-red">
+    <a href="https://github.com/MLSBOT/BOT-.git">
+        <img alt="Version" src="https://img.shields.io/badge/Versión-1.0.0-purple">
     </a>
 </div>
 
