@@ -17,7 +17,7 @@
 
 <br />
 
-Base de [@Dev Gui](), editado y modificado por MLS [yo](wa.me/+573011038374)
+Base de ([@Dev Gui](https://github.com/guiireal/lite-bot)), editado y modificado por MLS [yo](wa.me/+573011038374)
 
 # Bot de WhatsApp
 
