@@ -17,6 +17,8 @@
 
 <br />
 
+Base de [@Dev Gui](), editado y modificado por MLS [yo](wa.me/+573011038374)
+
 # Bot de WhatsApp
 
 ## Tecnologias Agregadas 
