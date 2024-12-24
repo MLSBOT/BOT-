@@ -101,4 +101,6 @@ exports.SPIDER_API_TOKEN = "sk-proj-JKMI-O9ZxyEj77_Igc3H1TIJdTgaGTJ0czgbtQQyinES
 ## ⚠ Información 
 
 Este proyecto directamente puede funcionar en su teléfono o también en un servidor x o y, usando obviamente una vps o la app de termux anteriormente mencionada.
-[🤑](https://www.instagram.com/miguxl_k3/profilecard/?igsh=dDdkcG9sa2NuOXh3)
+
+
+- [🤑](https://www.instagram.com/miguxl_k3/profilecard/?igsh=dDdkcG9sa2NuOXh3)
