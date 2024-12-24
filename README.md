@@ -4,7 +4,7 @@
 
 
 <div align="center">
-    <img src="./assets/images/menu.png" width="250">
+    <img src="./assets/images/incendinforme-1.png" width="250">
 </div>
 
 <br />
