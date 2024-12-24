@@ -17,7 +17,7 @@
 
 <br />
 
-Base de ([@Dev Gui](https://github.com/guiireal/lite-bot)), editado y modificado por MLS [yo](wa.me/+573011038374)
+Base de ([@Dev Gui](https://github.com/guiireal/lite-bot)), editado y modificado por ([MLS](https://api.whatsapp.com/send/?phone=573011038374&text&type=phone_number&app_absent=0&wame_ctl=1).
 
 # Bot de WhatsApp
 
