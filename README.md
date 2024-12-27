@@ -4,7 +4,7 @@
 
 
 <div align="center">
-    <img src="./assets/images/jj.gif" width="250">
+    <img src="./assets/images/jj.gif" width="500">
 </div>
 
 <br />
@@ -17,7 +17,9 @@
 
 <br />
 
-- ([Base](https://github.com/guiireal/lite-bot)), se agregaron múltiples funciones y servicios ([de](https://api.whatsapp.com/send/?phone=573011038374&text&type=phone_number&app_absent=0&wame_ctl=1)).
+- ([Base](https://github.com/guiireal/lite-bot)), se agregaron múltiples funciones y servicios.
+
+- Creador: ([👤](https://api.whatsapp.com/send/?phone=573011038374&text&type=phone_number&app_absent=0&wame_ctl=1)).
 
 # Bot para WhatsApp multifunciones (en desarrollo)
 
